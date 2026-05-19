@@ -1,0 +1,16 @@
+PHISHING AWARENESS QUIZ
+
+1. What is phishing?
+Answer: A cyber attack used to steal sensitive information.
+
+2. Should you click unknown email links?
+Answer: No.
+
+3. What does HTTPS indicate?
+Answer: Secure website connection.
+
+4. Is sharing OTP safe?
+Answer: No.
+
+5. Name one type of phishing attack.
+Answer: Email phishing / Smishing / Vishing.
