@@ -112,14 +112,17 @@ This project helps users understand modern phishing techniques and encourages se
 
 ---
 
+
+# 📜 Conclusion
+
+Phishing awareness is essential in today's digital world. Users must stay alert while using emails, websites, and online services. By understanding phishing techniques and following cyber safety practices, individuals can significantly reduce the risk of becoming victims of cyber attacks.
+
+---
+
+
 # 👩‍💻 Developed By:
 
    ***THATCHAYAINI R***
 
 CodeAlpha Cyber Security Internship
 
----
-
-# 📜 Conclusion
-
-Phishing awareness is essential in today's digital world. Users must stay alert while using emails, websites, and online services. By understanding phishing techniques and following cyber safety practices, individuals can significantly reduce the risk of becoming victims of cyber attacks.
